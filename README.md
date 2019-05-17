@@ -18,4 +18,4 @@ when you have done this you should see an option in the taskbar to switch betwee
 
 
 
-*in windows before 10 there will be a similar option in the control panel
+*in windows 7 and 8 there will be a similar option in the control panel
