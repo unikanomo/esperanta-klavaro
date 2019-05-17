@@ -1,0 +1,3 @@
+v2 - correct mistake where using capslock instead of shift did not produce capital vesions of some letters
+
+v3 - modified scorce file so that the keyboard will show up in the list of keyboards as "esperanto" not "united kingdom"
