@@ -7,7 +7,7 @@ ie ĉ ĝ ĥ ĵ ŝ ŭ by holding the AltGr (right alt) button and at the same tim
 
 it is based on the GB keyborad layout, so people using a US keyboard layout or other layout, may find some things are in a differant place eg @
 
-To install extract the archive to a folder, then use the setup.exe file in the “eogbkeys” folder to install
+To install, downlaod the zipfile, extract the archive to a folder, then use the setup.exe file in the “eogbkeys” folder to install
 
 Alternatively you can build your own install file from the .klc file using Microsoft Keyboard Layout Creator 1.4 
 https://www.microsoft.com/en-us/download/details.aspx?id=22339
