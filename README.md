@@ -5,7 +5,7 @@ Esporanto keyboard for windows
 This is a keyboard layout, for windows, to enable the easy typing of the Esperanto letters with circumflexs 
 ie ĉ ĝ ĥ ĵ ŝ ŭ by holding the AltGr (right alt) button and at the same time as pressing the equivalent letter without a circumflex ie c g h j s u
 
-it is based on the GB ekyborad layout, so people using a US keyboard layout or other layout, may find some things are in a differant place eg @
+it is based on the GB keyborad layout, so people using a US keyboard layout or other layout, may find some things are in a differant place eg @
 
 To install extract the archive to a folder, then use the setup.exe file in the “eogbkeys” folder
 alternatively you can build your own install file using the .klc file and Microsoft Keyboard Layout Creator 1.4 
