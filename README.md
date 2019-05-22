@@ -1,6 +1,6 @@
 # esperanta-klavaro
 
-Esporanto keyboard for windows
+Esperanto keyboard for windows
 
 This is a keyboard layout, for windows, to enable the easy typing of the Esperanto letters with circumflexs 
 ie ĉ ĝ ĥ ĵ ŝ ŭ by holding the AltGr (right alt) button and at the same time as pressing the equivalent letter without a circumflex ie c g h j s u
